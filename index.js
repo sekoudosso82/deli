@@ -7,8 +7,8 @@ var sum = document.getElementById("label1").innerHTML
             document.getElementById("label1").innerHTML = sum;
             
         });
-        console.log(document.getElementById("label1").innerHTML);
-        console.log(sum);
+        // console.log(document.getElementById("label1").innerHTML);
+//         console.log(sum);
 
     
 
