@@ -122,7 +122,7 @@ footer {
     width: 32%;
     height: 50px;
     text-align: center;
-    background-color:greenyellow;
+    background-color:green;
     /* float: left; */
     display: inline-block;
   }
@@ -136,14 +136,19 @@ footer {
     width: 32%;
     height: 50px;
     text-align: center;
-    background-color:red;
+    background-color:green;
     float: left;
     /* display: inline-block; */
   }
 /*  remove , add, label cxlass */
 input, button{
+    width: 30%;
+    height: 70%;
     display: inline-block;
-    padding: 10px;
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+    text-align: center;
 
 }
 .removeButton{
@@ -220,6 +225,17 @@ input, button{
     display: inline-block;
     font-family: sans-serif;
     font-size: 20px;
+  }
+
+  #placeOrder{
+    background-color: black;
+    color: #EEEEEE;
+    font-size: 20px;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    border: 0px;
+    width: 80%;
   }
   
   
