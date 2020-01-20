@@ -141,12 +141,9 @@ footer {
     /* display: inline-block; */
   }
 /*  remove , add, label cxlass */
-.addButton{
-  margin-top: 5px;
-    text-align: center;
-    font-size: 1.5rem;
-    text-decoration: black;
-    color: black;
+input, button{
+    display: inline-block;
+    padding: 10px;
 
 }
 .removeButton{
